@@ -3,7 +3,14 @@
     "id": 1,
     "image": "",
     "date": "2024-11-09T13:26:49.140Z",
-    "comments": []
+    "comments": [
+      {
+        "id": 1,
+        "username": "dabby",
+        "comment": "dslkvnvlk",
+        "replies": []
+      }
+    ]
   },
   {
     "id": 2,
@@ -15,6 +22,36 @@
     "id": 3,
     "image": "",
     "date": "2024-11-09T13:33:22.554Z",
+    "comments": []
+  },
+  {
+    "id": 4,
+    "title": "pool ",
+    "content": "come enjoy the waters",
+    "shortDescription": "had a nice day with my man!",
+    "image": "image_1731243160112.jpg",
+    "author": "swaretds",
+    "date": "2024-11-10T12:52:40.602Z",
+    "comments": []
+  },
+  {
+    "id": 5,
+    "title": "pool",
+    "content": "couple ",
+    "shortDescription": "best day",
+    "image": "image_1731246639658.jpg",
+    "author": "dabby",
+    "date": "2024-11-10T13:50:39.864Z",
+    "comments": []
+  },
+  {
+    "id": 6,
+    "title": "BayBeach",
+    "content": "water was clear as ever",
+    "shortDescription": "went to one of the most fun trips!",
+    "image": "image_1731248112229.jpg",
+    "author": "Jay",
+    "date": "2024-11-10T14:15:12.306Z",
     "comments": []
   }
 ]
