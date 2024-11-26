@@ -56,7 +56,7 @@ router.post("/login", (req, res) => {
     }
 
     // Generate token and send success response if credentials are correct
-    const token = jwt.sign({ id: user.id }, '4204', { expiresIn: '24h' });
+    const token = jwt.sign({ id: user.id }, process.env.JWT_SECRET, { expiresIn: '2h' });
     res.json({ auth: true, token, message: 'Login successful' });
 });
 

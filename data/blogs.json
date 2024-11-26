@@ -6,9 +6,15 @@
     "comments": [
       {
         "id": 1,
-        "username": "dabby",
-        "comment": "dslkvnvlk",
-        "replies": []
+        "username": "david",
+        "comment": "i enjoyed myself",
+        "replies": [
+          {
+            "id": 1,
+            "username": "",
+            "reply": "me too"
+          }
+        ]
       }
     ]
   },
@@ -52,6 +58,34 @@
     "image": "image_1731248112229.jpg",
     "author": "Jay",
     "date": "2024-11-10T14:15:12.306Z",
+    "comments": []
+  },
+  {
+    "id": 7,
+    "title": "my blog",
+    "content": "best",
+    "shortDescription": "my outing",
+    "image": "image_1731339609721.jpg",
+    "author": "sweetness",
+    "date": "2024-11-11T15:40:10.672Z",
+    "comments": []
+  },
+  {
+    "id": 8,
+    "title": "hicking",
+    "content": "year",
+    "shortDescription": "day",
+    "image": "image_1731343255258.jpg",
+    "author": "david",
+    "date": "2024-11-11T16:40:55.375Z",
+    "comments": []
+  },
+  {
+    "id": 9,
+    "title": "",
+    "content": "",
+    "image": "",
+    "date": "2024-11-11T16:42:46.848Z",
     "comments": []
   }
 ]
